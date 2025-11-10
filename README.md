@@ -13,6 +13,7 @@ CS Student
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExperiencesXP&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ExperiencesXP&icon=0&color=6)](https://visitcount.itsvg.in)
+<!-- Moe Counter -->
+[![Moe Counter](https://count.getloli.com/@ExperiencesXP?name=ExperiencesXP&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0)](https://github.com/journey-ad/Moe-Counter)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
