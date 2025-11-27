@@ -1,6 +1,5 @@
 # About Me:
-CompSci Student
-Machine Learning Enthusiast
+CompSci Student & Machine Learning Enthusiast
 
 
 ## Socials:
