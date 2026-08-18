@@ -17,6 +17,6 @@ user = {
 <!-- Moe Counter -->
 <div align="center">
   
-[![Moe Counter](https://count.getloli.com/@ExperiencesXP?name=ExperiencesXP&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=0)](https://github.com/journey-ad/Moe-Counter)
+[![Moe Counter](https://count.getloli.com/@ExperiencesXP?name=ExperiencesXP&theme=rule34&padding=7&offset=0&align=top&scale=2&pixelated=0&darkmode=0)](https://github.com/journey-ad/Moe-Counter)
 
 </div>
