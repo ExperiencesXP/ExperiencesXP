@@ -3,8 +3,9 @@
 user = {
     username: "Experiences",
     occupation: "Student",
+    age: 18,
     description: "",
-    interests: ["Local-first", "Privacy", "Cybersecurity", "Machine Learning"]
+    interests: ["Privacy", "Cybersecurity", "Machine Learning", "Large Language Models", "Computer Vision"]
   
 }
 ```
