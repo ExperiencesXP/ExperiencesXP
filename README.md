@@ -4,7 +4,7 @@ profile = {
     "username": "Experiences",
     "occupation": "Student",
     "age": 18,
-    "description": "",
+    "description": None,
     "interests": [
         "Privacy",
         "Cybersecurity",
